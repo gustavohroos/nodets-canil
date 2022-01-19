@@ -12,3 +12,7 @@ Projeto feito no módulo do curso Node + Typescript
 ### Para rodar o projeto
 
 `npm run start-dev`
+
+### Live 
+
+`https://still-woodland-93289.herokuapp.com/`
