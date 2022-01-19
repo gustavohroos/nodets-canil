@@ -15,4 +15,4 @@ Projeto feito no módulo do curso Node + Typescript
 
 ### Live 
 
-`https://still-woodland-93289.herokuapp.com/`
+https://still-woodland-93289.herokuapp.com/
